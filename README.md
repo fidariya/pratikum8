@@ -2,7 +2,7 @@
 
 ## Untuk pratikum ini membuat program sederhana dengan menginput data mahasiswa menggunkan class.
 
-1. Berikut adalah flowchart program
+1. Berikut adalah flowchart program                         
 ![Gambar](ss/ss1.png)
 2. dict = {}, gunanya untuk menampung data mahasiswa.
 3. Untuk menu pada nomer satu gunanya untuk menambah data dengan menginput nama, nim, nilai tugas, nilai uts, dan nilai uas.
@@ -28,5 +28,5 @@
 ![Gambar](ss/ss8.png)
 4. Tampilan program saat dijalankan dengan perintah hapus berdasarkan nama.
 ![Gambar](ss/ss9.png)
-5. Tampilan program saat dijalankan dengan perintah keluar.
+5. Tampilan program saat dijalankan dengan perintah keluar.             
 ![Gambar](ss/ss10.png)
